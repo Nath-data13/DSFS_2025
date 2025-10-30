@@ -1,0 +1,21 @@
+secrets.env
+bloc6_projetfinal.pptx
+Data
+pkl
+# Fichiers sensibles
+secrets.env
+.env
+
+# Fichiers Python inutiles
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers système/macOS
+.DS_Store
+
+# Dossier Git
+.git/
+
+src/models
+.mp4

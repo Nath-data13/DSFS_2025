@@ -82,6 +82,66 @@ target/
 profile_default/
 ipython_config.py
 
+# ========================
+# Fichiers sensibles
+# ========================
+*.env
+*.secret.env
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================
+# Fichiers système/macOS
+# ========================
+.DS_Store
+
+# ========================
+# Fichiers volumineux à ignorer
+# ========================
+*.mp4
+*.csv
+*.pkl
+*.json
+
+# ========================
+# PowerPoint
+# ========================
+*.pptx
+*.ppt
+
+# ========================
+# Excel
+# ========================
+*.xls
+*.xlsx
+
+# ========================
+# Word
+# ========================
+*.doc
+*.docx
+
+# ========================
+# Dossier Git interne
+# ========================
+.git/
+
+# PyTorch / modèles entraînés
+*.pth
+
+# Images
+*.png
+
+# MLflow files and directories
+mlruns/
+mlartifacts/
+mlflow.db
+
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:

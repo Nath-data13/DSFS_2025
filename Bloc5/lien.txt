@@ -1,0 +1,22 @@
+lien api
+https://nath13huggingface-getaround-api.hf.space/docs
+https://nath13huggingface-getaround-api.hf.space/docs#/default/predict_predict_post
+
+lien api/hf
+https://huggingface.co/spaces/nath13huggingface/getaround_api
+
+lien streamlit/hf
+https://huggingface.co/spaces/nath13huggingface/getaroundv2
+
+lien ML Flow
+terminal
+cd C:\Users\natha\JEDHA\Certif_Fullstack_Jedha_2025\Bloc5\getaroundv2\model
+conda activate ml_deployment
+mlflow ui --host 127.0.0.1 --port 5000
+
+ouvrir http://127.0.0.1:5000 : ml flow
+
+vs code : relance le code /getaroundv2/model/ml.piynb
+les métriques apparaissent dans ML FLOW
+
+

@@ -1,0 +1,9 @@
+altair
+streamlit
+pandas
+matplotlib
+plotly
+joblib
+xgboost
+requests
+scikit-learn
