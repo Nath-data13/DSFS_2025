@@ -4,7 +4,7 @@ URL dépôt Git Hub
 
 lien api
 https://nath13huggingface-getaround-api.hf.space/docs
-https://nath13huggingface-getaround-api.hf.space/docs#/default/predict_predict_post
+https://nath13huggingface-getaround-api.hf.space/predict
 
 lien api/hf
 https://huggingface.co/spaces/nath13huggingface/getaround_api
